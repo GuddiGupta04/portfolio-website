@@ -1,1 +1,1 @@
-this is the mini pyython projects repo.
+this is the mini python project repo.
