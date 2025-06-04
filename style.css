@@ -1,0 +1,111 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.8rem;
+  text-align: center;
+}
+
+th {
+  background-color: #ffccdd;
+  color: #333;
+}
+
+.personal-info ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.personal-info li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.personal-info strong {
+  color: #cc3366;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #ffccdd;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+h1 {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.title {
+  color: #555;
+  font-size: 1.2rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  border-bottom: 2px solid #ff99bb;
+  padding-bottom: 0.5rem;
+  color: #cc3366;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding: 0.5rem 0;
+}
+
+a {
+  color: #cc3366;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  background-color: #ffe6ee;
+  padding: 1rem;
+  color: #666;
+}
+.achievement ul,
+.skills ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.skills li,
+.achievement li {
+  margin-bottom: 0.4rem;
+  font-size: 1rem;
+  color: #333;
+}

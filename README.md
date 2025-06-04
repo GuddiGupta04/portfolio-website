@@ -1,1 +1,1 @@
-this is the mini python project repo.
+My personal portfolio website built with HTML and CSS
